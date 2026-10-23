@@ -5,7 +5,7 @@
 [![WACV 2027 Workshop](https://img.shields.io/badge/WACV%202027-RWS%20Workshop-green.svg)](https://vap.aau.dk/rws/)
 [![Codabench Benchmark](https://img.shields.io/badge/AP-0.9001-gold.svg)](https://www.codabench.org/competitions/18273/)
 
-Official source code and technical documentation for **Team VNUHCM-PCTDN** (University of Science, VNU-HCM) in the **UPAR Challenge 2027 (Track 3: 2D Human Pose Estimation under Domain Shift)**, held in conjunction with the **7th Real-World Surveillance (RWS) Workshop at WACV 2027**.
+Official source code and technical documentation for **Team kokaus** (University of Science, VNU-HCM) in the **UPAR Challenge 2027 (Track 3: 2D Human Pose Estimation under Domain Shift)**, held in conjunction with the **7th Real-World Surveillance (RWS) Workshop at WACV 2027**.
 
 ---
 
@@ -69,7 +69,7 @@ Evaluated directly on the official CodaBench evaluation server with an Nvidia Te
 
 ```bash
 git clone https://github.com/AIVIETNAM-AIO-Koka/UPAR2027-Track3-VNUHCM-PCTDN-.git
-cd UPAR2027-Track3-VNUHCM-PCTDN
+cd UPAR2027-Track3-kokaus
 pip install -r requirements.txt
 ```
 
@@ -116,7 +116,7 @@ If you find this work helpful for your research, please cite our technical paper
 ```bibtex
 @inproceedings{tran2027kinawing,
   title={KinAwing-Pose: Anatomically-Constrained Vision Transformers with Hard Keypoint Mining and Stochastic Weight Averaging for Surveillance Human Pose Estimation},
-  author={Tran, Khoa and others},
+  author={Tran Phuoc, Anh-Khoa and others},
   booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) Workshops},
   year={2027}
 }
@@ -125,7 +125,8 @@ If you find this work helpful for your research, please cite our technical paper
 ---
 
 ## 👥 Authors & Team
-- **Team:** VNUHCM-PCTDN
+- **Team:** kokaus
+- **Author:** Anh-Khoa Tran Phuoc
 - **Institution:** University of Science, Vietnam National University - Ho Chi Minh City (HCMUS, VNU-HCM)
 - **Email:** 2512036546@student.hcmus.edu.vn
 - **Codabench Submission:** `kokaus-1006069-1006069_VID-Docker-GPU` (Ranked #17 with AP = 0.900108)
