@@ -127,4 +127,4 @@ If you find this work helpful for your research, please cite our technical paper
 ## 👥 Authors & Team
 - **Team:** VNUHCM-PCTDN
 - **Institution:** University of Science, Vietnam National University - Ho Chi Minh City (HCMUS, VNU-HCM)
-- **Email:** khoa.tran@hcmus.edu.vn
+- **Email:** 2512036546@student.hcmus.edu.vn
