@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+venv/
+ENV/
+
+# Large Model Weights (Host on Google Drive)
+*.safetensors
+*.pth
+*.pt
+*.torchscript
+*.bin
+*.zip
+*.tar.gz
+
+# Data & Cache
+data/
+datasets/
+logs/
+.ipynb_checkpoints/
