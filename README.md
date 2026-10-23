@@ -68,7 +68,7 @@ Evaluated directly on the official CodaBench evaluation server with an Nvidia Te
 ### 1. Environment Setup
 
 ```bash
-git clone https://github.com/AIVIETNAM-AIO-Koka/UPAR2027-Track3-VNUHCM-PCTDN.git
+git clone https://github.com/AIVIETNAM-AIO-Koka/UPAR2027-Track3-VNUHCM-PCTDN-.git
 cd UPAR2027-Track3-VNUHCM-PCTDN
 pip install -r requirements.txt
 ```
