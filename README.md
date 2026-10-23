@@ -128,3 +128,4 @@ If you find this work helpful for your research, please cite our technical paper
 - **Team:** VNUHCM-PCTDN
 - **Institution:** University of Science, Vietnam National University - Ho Chi Minh City (HCMUS, VNU-HCM)
 - **Email:** 2512036546@student.hcmus.edu.vn
+- **Codabench Submission:** `kokaus-1006069-1006069_VID-Docker-GPU` (Ranked #17 with AP = 0.900108)
